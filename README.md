@@ -14,4 +14,4 @@ Building on topics of the "Introduction to Python 1 and 2", "Intermediate Python
 * **Helpful hints & resources**
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ken7gh/Data_Visualization_with_Python.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Data_Visualization_with_Python.git/master)
