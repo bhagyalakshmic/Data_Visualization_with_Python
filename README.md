@@ -17,3 +17,5 @@ Building on topics of the "Introduction to Python 1 and 2", "Intermediate Python
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Data_Visualization_with_Python.git/master)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/CEASLIBRARY/Data_Visualization_with_Python)
