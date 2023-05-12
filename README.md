@@ -1,7 +1,6 @@
 # Data_Visualization_with_Python
-Fifth workshop in a series of five Python workshops.
 
-Building on topics of the "Introduction to Python 1 and 2", "Intermediate Python", and "Data Analysis with Python" workshops. Basic knowledge of Python or attendance these workshops is strongly recommended.
+Building on topics of the "Foundations of Python" series, and "Data Manipulation with Python" workshop. Basic knowledge of Python or attendance these workshops is strongly recommended.
 
 ### Data Visualization with Python
 
